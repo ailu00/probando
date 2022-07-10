@@ -72,7 +72,8 @@
   top: 50%;
   right: 0%;
   
-  transform: translate(0%, -50%);*/
+  transform: translate(0%, -50%);
+cambio de prueba para git*/
 }
 
 .close:hover {background: #bbb;}
